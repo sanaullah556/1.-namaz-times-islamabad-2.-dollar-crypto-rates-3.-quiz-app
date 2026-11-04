@@ -1,1 +1,3 @@
-# 1.-namaz-times-islamabad-2.-dollar-crypto-rates-3.-quiz-app
+
+2.
+dollar-crypto-rates
